@@ -1,4 +1,3 @@
-# sec-financialstatement-crawler
 
 # Web crawler for financial statement data from US securities and exchange
 The ultimate goal of this project is providing 'balance sheets' and 'statements of operation' by scaping in U.S securities and exchange commission. 
@@ -9,7 +8,7 @@ The ultimate goal of this project is providing 'balance sheets' and 'statements 
 pip3 install requests
 pip3 install beautifulsoup4
 ```
-# Result (so far)
+## Result (so far)
 1. get filingSummary.xml url
 ![](image/filing_dict.png)
 
@@ -17,5 +16,5 @@ pip3 install beautifulsoup4
 ![](image/statement_of_operation_dict.png)
 ![](image/statement_of_operation_df.png)
 
-4. quarterly statement
+3. quarterly statement
 ![](image/quarterly_statement.png)
