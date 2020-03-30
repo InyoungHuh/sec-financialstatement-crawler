@@ -1,6 +1,6 @@
 
 # Web crawler for financial statement data from US securities and exchange
-The ultimate goal of this project is providing 'balance sheets' and 'statements of operation' by scaping in U.S securities and exchange commission. 
+The ultimate goal of this project is providing 'balance sheets' and 'statements of operation' by scaping in U.S securities and exchange commission. Saved them in postgre sql
 
 ## Installation
 
