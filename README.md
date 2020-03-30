@@ -10,11 +10,11 @@ pip3 install beautifulsoup4
 ```
 
 1. get filingSummary.xml url
-![](image/filing_dict.png)
+![](docs/filing_dict.png)
 
 2. statement of operations dictionary
-![](image/statement_of_operations_dict.png)
-![](image/statement_of_operations_df.png)
+![](docs/statement_of_operations_dict.png)
+![](docs/statement_of_operations_df.png)
 
 3. quarterly statement
-![](image/quarterly_statement.png)
+![](docs/quarterly_statement.png)
