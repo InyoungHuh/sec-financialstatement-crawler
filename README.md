@@ -8,13 +8,13 @@ The ultimate goal of this project is providing 'balance sheets' and 'statements 
 pip3 install requests
 pip3 install beautifulsoup4
 ```
-## Result (so far)
+
 1. get filingSummary.xml url
 ![](image/filing_dict.png)
 
 2. statement of operations dictionary
-![](image/statement_of_operation_dict.png)
-![](image/statement_of_operation_df.png)
+![](image/statement_of_operations_dict.png)
+![](image/statement_of_operations_df.png)
 
 3. quarterly statement
 ![](image/quarterly_statement.png)
