@@ -9,12 +9,7 @@ pip3 install requests
 pip3 install beautifulsoup4
 ```
 
-1. get filingSummary.xml url
-![](docs/filing_dict.png)
+## Update 
+AMD: statement of operations 2018.01~current
 
-2. statement of operations dictionary
-![](docs/statement_of_operations_dict.png)
-![](docs/statement_of_operations_df.png)
-
-3. quarterly statement
-![](docs/quarterly_statement.png)
+![](docs/database.png)
